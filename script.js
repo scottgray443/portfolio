@@ -1,4 +1,4 @@
-import { data } from "/data.js";
+import { data } from "https://cdn.jsdelivr.net/gh/scottgray443/portfolio@f44c96a6001b4831d2c24f14e85e3a73de883231/data.js";
 
 gsap.registerPlugin(ScrollTrigger);
 
