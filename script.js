@@ -1,4 +1,4 @@
-import { data } from "data.js";
+import { data } from "/data.js";
 
 gsap.registerPlugin(ScrollTrigger);
 
